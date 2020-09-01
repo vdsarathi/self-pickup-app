@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/self-pickup-app/static/css/main.86364332.chunk.css",
+    "main.js": "/self-pickup-app/static/js/main.1193cf07.chunk.js",
+    "main.js.map": "/self-pickup-app/static/js/main.1193cf07.chunk.js.map",
+    "runtime-main.js": "/self-pickup-app/static/js/runtime-main.f7fae40d.js",
+    "runtime-main.js.map": "/self-pickup-app/static/js/runtime-main.f7fae40d.js.map",
+    "static/css/2.87d51063.chunk.css": "/self-pickup-app/static/css/2.87d51063.chunk.css",
+    "static/js/2.a5c23f2f.chunk.js": "/self-pickup-app/static/js/2.a5c23f2f.chunk.js",
+    "static/js/2.a5c23f2f.chunk.js.map": "/self-pickup-app/static/js/2.a5c23f2f.chunk.js.map",
+    "index.html": "/self-pickup-app/index.html",
+    "precache-manifest.da00e350bd325e732a8cbce71a05e341.js": "/self-pickup-app/precache-manifest.da00e350bd325e732a8cbce71a05e341.js",
+    "service-worker.js": "/self-pickup-app/service-worker.js",
+    "static/css/2.87d51063.chunk.css.map": "/self-pickup-app/static/css/2.87d51063.chunk.css.map",
+    "static/css/main.86364332.chunk.css.map": "/self-pickup-app/static/css/main.86364332.chunk.css.map",
+    "static/js/2.a5c23f2f.chunk.js.LICENSE.txt": "/self-pickup-app/static/js/2.a5c23f2f.chunk.js.LICENSE.txt",
+    "static/media/App.component.css": "/self-pickup-app/static/media/background.ebce79ab.jpg",
+    "static/media/barcode.jpg": "/self-pickup-app/static/media/barcode.4703acee.jpg",
+    "static/media/delivery.png": "/self-pickup-app/static/media/delivery.4a82c150.png",
+    "static/media/Login.component.css": "/self-pickup-app/static/media/login_background_mobile.2d6afc0f.jpg",
+    "static/media/self-pickup.png": "/self-pickup-app/static/media/self-pickup.e659cb6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7fae40d.js",
+    "static/css/2.87d51063.chunk.css",
+    "static/js/2.a5c23f2f.chunk.js",
+    "static/css/main.86364332.chunk.css",
+    "static/js/main.1193cf07.chunk.js"
+  ]
+}
