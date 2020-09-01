@@ -1,0 +1,42 @@
+.menu-bar-pane {
+  height: 50px;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+  background-color: rgba(52, 43, 48, 0.9);
+}
+
+.menu-bar-pane-icon {
+  cursor: pointer;
+}
+
+.modal-product-img {
+  height: 60px;
+  width: 85px;
+}
+
+.ant-btn.ordernow-btn {
+  background-color: #1c9406;
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+.ant-btn.ordernow-btn:hover,
+.ant-btn.ordernow-btn:focus {
+  background-color: #167904;
+  border-color: #167904;
+  color: #ffffff;
+}
+
+.order-total-value,
+.pickup-slot-text {
+  font-size: 17px;
+  font-family: MyriadPro-Semibold;
+  padding-right: 5px;
+}
+
+.radio-grp {
+  display: "block";
+  height: "30px";
+  line-height: "30px";
+}

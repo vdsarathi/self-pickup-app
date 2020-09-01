@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "MyriadPro-Regular";
+  src: url("../../assets/fonts/MyriadPro-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyriadPro-Bold";
+  src: url("../../assets/fonts/MyriadPro-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MyriadPro-Semibold";
+  src: url("../../assets/fonts/MyriadPro-Semibold.otf") format("opentype");
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  font-family: MyriadPro-Regular, sans-serif;
+}
+
+.app-bgImage {
+  background: url(../../assets/images/background.jpg);
+  min-width: 100%;
+  min-height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

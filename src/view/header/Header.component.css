@@ -1,0 +1,45 @@
+.header-row {
+  height: 70px;
+  background-color: rgba(24, 144, 255);
+  box-shadow: 0 -2px 0 1px rgba(0, 0, 0, 0.5);
+  padding: 0px 15px 0px 15px;
+}
+
+.header-trans-logo {
+  /* height: 30px;
+  width: 75px; */
+  width: 96px;
+  height: 36px;
+}
+
+.header-menu-icon {
+  float: left;
+}
+.header-cart-icon {
+  float: right;
+}
+
+.header-user-name {
+  font-size: 18px;
+  color: #ffffff;
+  padding: 5px;
+}
+
+.dropDown-name {
+  font-family: "MyriadPro-Regular", sans-serif;
+  color: #727a82;
+  font-size: 18px;
+}
+
+.dorpdownPadding.ant-dropdown-menu {
+  padding: 10px;
+}
+
+.email {
+  font-size: 14px;
+  color: #727a82;
+}
+
+.dropDown-text-color {
+  color: rgba(24, 144, 255);
+}

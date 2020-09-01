@@ -1,0 +1,12 @@
+.card {
+  font-family: "MyriadPro-Bold", sans-serif;
+  height: 490px;
+  width: 480px;
+  border: 1px solid #979797;
+  background: rgb(255, 255, 255, 0.8);
+  background-color: white;
+  margin-top: 25px;
+  margin-bottom: 35px;
+  border-radius: 5px;
+  padding: 10px;
+}

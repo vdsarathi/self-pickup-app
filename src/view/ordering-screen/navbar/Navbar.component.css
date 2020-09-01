@@ -1,0 +1,54 @@
+.navbar-pane {
+  line-height: 45px;
+  padding: 0px 5px 0px 5px;
+  background: rgba(1, 98, 189, 0.81);
+  box-shadow: 0 6px 5px 0 rgba(0, 0, 0, 0.16);
+  height: auto;
+  overflow: hidden;
+}
+
+ul.nav-bar-menu {
+  line-height: 15px;
+  background: none;
+  border-bottom: none;
+  width: 100%;
+  color: #ffffff;
+}
+
+.menu-item-logo {
+  padding: 0px 5px 0px 0px;
+  height: 32px;
+  width: 45px;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark) > .ant-menu-item.navbar-menu-items {
+  margin: -1px 10px 0;
+  padding: 0;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark)
+  > .ant-menu-item-selected.navbar-menu-items,
+.ant-menu-item-active {
+  border-bottom: 2px solid white;
+  color: white;
+}
+
+.ant-menu-horizontal:not(.ant-menu-dark)
+  > .ant-menu-item-active.navbar-menu-items {
+  border-bottom: 2px solid white;
+  color: white;
+}
+
+.location-dropdown {
+  color: white;
+  opacity: 1;
+}
+.location-dropdown,
+.ant-select-selection-placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.dropdown-option {
+  font-size: 12px;
+}

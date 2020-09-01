@@ -1,0 +1,11 @@
+.order-history-container {
+  min-height: 70vh;
+  margin: 25px;
+}
+
+.order-history-tittle {
+  font-family: MyriadPro-Bold;
+  font-size: 21px;
+  color: #353535;
+  margin-bottom: 15px;
+}

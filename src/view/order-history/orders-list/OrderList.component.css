@@ -1,0 +1,46 @@
+.order-history-container {
+  min-height: 90vh;
+}
+
+.order-history-tittle {
+  font-family: MyriadPro-Bold;
+  font-size: 21px;
+  color: #353535;
+  margin-bottom: 15px;
+}
+
+.order-title {
+  color: #353535;
+  font-family: MyriadPro-Bold;
+  font-size: 17px;
+}
+.order-title-others {
+  color: #fc6711;
+  font-family: MyriadPro-Bold;
+  font-size: 17px;
+}
+
+.order-title-completed {
+  color: #1c9406;
+  font-family: MyriadPro-Bold;
+  font-size: 17px;
+}
+
+.order-detail {
+  color: rgba(1, 98, 189, 1);
+  font-family: MyriadPro-Semibold;
+  font-size: 15px;
+}
+
+.ant-btn.track-btn {
+  background-color: #1c9406;
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+.ant-btn.track-btn:hover,
+.ant-btn.track-btn:focus {
+  background-color: #167904;
+  border-color: #167904;
+  color: #ffffff;
+}

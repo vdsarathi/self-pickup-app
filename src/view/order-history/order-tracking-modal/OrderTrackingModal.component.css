@@ -1,0 +1,80 @@
+.order-history-container {
+  min-height: 70vh;
+  margin: 25px;
+}
+
+.delay-lable {
+  font-family: MyriadPro-Bold;
+  font-size: 21px;
+  color: #353535;
+  margin: 15px;
+}
+
+.delay-counter {
+  font-family: MyriadPro-Bold;
+  font-size: 25px;
+  color: #353535;
+}
+
+.welcome-text {
+  font-family: MyriadPro-Semibold;
+  font-size: 14px;
+  color: #000000;
+  margin: 5px;
+}
+
+.queue-text {
+  font-family: MyriadPro-Semibold;
+  font-size: 12px;
+  color: #353535;
+  margin: 5px;
+}
+
+.est-text {
+  font-family: MyriadPro-Semibold;
+  font-size: 14px;
+  color: #353535;
+}
+
+.ant-btn.confirm-btn {
+  background-color: #1c9406;
+  color: #ffffff;
+  border-radius: 4px;
+  margin: 15px;
+}
+
+.ant-btn.confirm-btn:hover,
+.ant-btn.confirm-btn:focus {
+  background-color: #167904;
+  border-color: #167904;
+  color: #ffffff;
+}
+
+.barcode-img {
+  width: 120px;
+  height: 60px;
+}
+
+.queue-number-box {
+  width: 42px;
+  height: 42px;
+  border-radius: 2px;
+  font-size: 25px;
+  text-align: center;
+  color: #ffffff;
+  background: #1c9406;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.lane-number-box {
+  width: 42px;
+  height: 42px;
+  border-radius: 2px;
+  font-size: 25px;
+  text-align: center;
+  color: #ffffff;
+  background: #0162bd;
+  display: inline-block;
+  vertical-align: middle;
+}
